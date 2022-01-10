@@ -1,0 +1,33 @@
+  using system;
+
+
+class consulta {
+
+  private int id;
+  private string nome_produto;
+  private int qtd;
+public produto (int id, string nome_produto, int qtd){
+  consulta = new consulta
+  Console.WriteLine ("Digite o produto que deseja consultar");
+  public static string  Console.ReadLine ();
+  if produto = relogio
+    Console.WriteLine ("temos:" "em estoque")
+  if produto = fone
+    Console.WriteLine ("temos:" "em estoque")
+  Else
+  return "produto invalido"
+
+} 
+class produto{
+  private int id;
+  private string nome_produto;
+  private int qtd;
+public produto (int id, string nome_produto, int qtd){
+  this.id = id;
+  this.nome_produto = nome_produto;
+  this.qtd = qtd;
+  Produto1 = new produto (1, "relogio", 10);
+  Produto2 = new produto (2, "fone ", 10);
+}
+
+}
